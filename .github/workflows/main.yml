@@ -19,5 +19,5 @@ jobs:
       - name: Display HTML File
         run: cat index.html
 
-      - name: CI Successful
-        run: echo "Continuous Integration Pipeline Executed Successfully!"
+      - name: Workflow Fixed
+        run: echo "Workflow Fixed!"
